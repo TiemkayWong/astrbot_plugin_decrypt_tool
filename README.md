@@ -1,2 +1,11 @@
 # astrbot_plugin_decrypt_tool
-基于小番茄混淆网页(https://xfqtphx.netlify.app/) 源码的图像处理插件
+
+主要功能：
+
+在聊天环境中对图片进行处理
+
+
+
+# 支持
+
+无
